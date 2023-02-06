@@ -1,1 +1,2 @@
 calculator operational
+added loop for sustainability
